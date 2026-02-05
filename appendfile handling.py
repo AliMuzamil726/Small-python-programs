@@ -1,5 +1,4 @@
 from openpyxl import Workbook
-
 wb = Workbook()
 sheet = wb.active
 
