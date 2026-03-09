@@ -1,3 +1,3 @@
 print("Ali,Muzamil")
-len("Ali,Muzamil")
+print(len("Ali,Muzamil"))
 len 
